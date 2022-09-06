@@ -1,16 +1,53 @@
-# project_kontak
+# Project Contact
 
-A new Flutter project.
+## Tujuan Praktikum
 
-## Getting Started
+* Mampu memasang dan memanfaatkan plugin SQFlite
+* Membuat aplikasi dengan koneksi database SQLite
+* Mampu menerapkan operasi create, read, update dan delete (CRUD)
 
-This project is a starting point for a Flutter application.
+## Aplikasi CRUD Studi Kasus Data Kontak
 
-A few resources to get you started if this is your first Flutter project:
+* Aplikasi bisa melihat (listing) daftar kontak
+* Aplikasi bisa tambah, edit, dan delete kontak
+* Terdapat database dengan satu tabel yang berisikan data id, nama, nomor kontak, email, dan nama perusahaan
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<br>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Hasil Praktikum
+
+## Tampilan Aplikasi Keadaan Kosong
+
+![List Kontak Dalam Keadaan Kosong](./images/01.png)
+
+* Pada tampilan awal aplikasi, terdapat tombol tambah kontak dan list kontak yang kosong
+
+## Tampilan Aplikasi Menambahkan Kontak
+
+![Menambahkan Kontak](./images/02.png)
+
+* Pada tampilan ini, terdapat form tambah kontak yang berisi nama, nomor kontak, email, dan nama perusahaan
+
+## Tampilan Aplikasi Setelah Menambahkan Kontak
+
+![Tampilan List Kontak](./images/03.png)
+
+* Pada tampilan ini, terdapat list kontak yang sudah terisi
+
+## Tampilan Aplikasi Edit Kontak
+
+![Edit Kontak](./images/04.png)
+
+* Pada tampilan ini, terdapat form edit kontak yang berisi nama, nomor kontak, email, dan nama perusahaan
+
+## Tampilan Aplikasi Menghapus Kontak
+
+![Menghapus Kontak](./images/05.png)
+
+* Pada tampilan ini, terdapat list kontak yang sudah terisi dan tombol hapus
+
+
+
+
+
+
